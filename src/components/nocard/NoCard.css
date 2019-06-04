@@ -1,0 +1,13 @@
+.noData {
+  text-align: center;
+  margin: 20px 440px 0 440px;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 15px 4px #ccc;
+  border-radius: 8px;
+  height: 350px;
+  width: 400px;
+}
+.noData1 {
+  margin: 50px;
+  font-size: 6mm;
+}
